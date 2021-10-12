@@ -1,0 +1,3 @@
+Ivanov 300000
+Petrov 1290
+Peskov 59302
